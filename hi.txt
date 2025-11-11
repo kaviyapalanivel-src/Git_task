@@ -1,0 +1,3 @@
+Hello! This is a sample text.
+You can use it anywhere for testing.
+Have a great day! 😊
