@@ -1,0 +1,1 @@
+ If an s3 bket deleted pemanenet even the the root user 
